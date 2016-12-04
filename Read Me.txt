@@ -1,0 +1,11 @@
+Roman Numerals 
+
+It is based on creating a class that has friend functions, operator overloading, and separate compilation.
+
+Test1 performs arithmetic and equality tests on RomanNumeralobjects. 
+Test2 inputs the text file RomanNumeral.txt
+
+The file contains simple two-operand arithmetic expressions with Roman numerals. 
+The function reads each expression, performs the operation, and prints the expression and its result:
+
+
